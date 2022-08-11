@@ -1,0 +1,34 @@
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: -webkit-sticky;
+    top: 0;
+    margin: 0;
+    border-bottom: 1px solid lightgrey;
+    overflow: hidden;
+}
+
+.logo {
+    display: block;
+    margin-left: 10px;
+
+}
+
+.logo h1 {
+    color: #52c41a;
+    font-weight: 700;
+}
+
+.search {
+    float: center;
+
+}
+
+.cart {
+    float: right;
+    margin-right: 10px;
+}
+.card-wrapper{
+    margin-top: 30px;
+}
